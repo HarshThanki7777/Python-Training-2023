@@ -1,0 +1,24 @@
+OOPS : OBJECT ORIENTED PROGRAMING SYSTEM OR STRUCTURE 
+
+CLASS : Class Is a Collection of Data Member And Member Function 
+
+class which is contain data member and member functions in single entity
+
+class which is behave like group of elements 
+
+we can store similar and dis-similar data elements in class 
+
+
+structure demo :
+
+class <classname>:
+     data member
+     member functions
+
+
+Object : Object Is an Instance Or Variable Of Class 
+Using Of Object We Can Access All The Properties Of Class 
+
+Syntax :
+
+objname = classname()
